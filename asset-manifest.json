@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/lclark-scottlogic.github.io/static/css/main.3dd73a59.chunk.css",
-    "main.js": "/lclark-scottlogic.github.io/static/js/main.988d99d1.chunk.js",
-    "main.js.map": "/lclark-scottlogic.github.io/static/js/main.988d99d1.chunk.js.map",
-    "runtime-main.js": "/lclark-scottlogic.github.io/static/js/runtime-main.05c31777.js",
-    "runtime-main.js.map": "/lclark-scottlogic.github.io/static/js/runtime-main.05c31777.js.map",
-    "static/js/2.34f5fbce.chunk.js": "/lclark-scottlogic.github.io/static/js/2.34f5fbce.chunk.js",
-    "static/js/2.34f5fbce.chunk.js.map": "/lclark-scottlogic.github.io/static/js/2.34f5fbce.chunk.js.map",
-    "index.html": "/lclark-scottlogic.github.io/index.html",
-    "static/css/main.3dd73a59.chunk.css.map": "/lclark-scottlogic.github.io/static/css/main.3dd73a59.chunk.css.map",
-    "static/js/2.34f5fbce.chunk.js.LICENSE.txt": "/lclark-scottlogic.github.io/static/js/2.34f5fbce.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.3dd73a59.chunk.css",
+    "main.js": "/static/js/main.988d99d1.chunk.js",
+    "main.js.map": "/static/js/main.988d99d1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c97c43ef.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c97c43ef.js.map",
+    "static/js/2.34f5fbce.chunk.js": "/static/js/2.34f5fbce.chunk.js",
+    "static/js/2.34f5fbce.chunk.js.map": "/static/js/2.34f5fbce.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.3dd73a59.chunk.css.map": "/static/css/main.3dd73a59.chunk.css.map",
+    "static/js/2.34f5fbce.chunk.js.LICENSE.txt": "/static/js/2.34f5fbce.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.05c31777.js",
+    "static/js/runtime-main.c97c43ef.js",
     "static/js/2.34f5fbce.chunk.js",
     "static/css/main.3dd73a59.chunk.css",
     "static/js/main.988d99d1.chunk.js"
