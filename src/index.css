@@ -1,7 +1,7 @@
 body {
   font: 50px "Century Gothic", Futura, sans-serif;
   margin: 30px;
-  background-image:url(https://i.guim.co.uk/img/media/9864e95f212904d1c43b515307bc0c883bf5f3c3/0_0_5131_3414/master/5131.jpg?width=700&quality=85&auto=format&fit=max&s=047d69821dd23b6a5eb70a489ae92ca4);
+  background-image:url(app/Civic.webp);
   animation: moveBackground 2s infinite linear;
 }
 h1{
