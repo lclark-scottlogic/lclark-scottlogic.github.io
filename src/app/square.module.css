@@ -1,0 +1,32 @@
+.square {
+    background-color: #e5e5f7;
+    background-image:  linear-gradient(30deg, #444cf7 12%, transparent 12.5%, transparent 87%, #444cf7 87.5%, #444cf7), linear-gradient(150deg, #444cf7 12%, transparent 12.5%, transparent 87%, #444cf7 87.5%, #444cf7), linear-gradient(30deg, #444cf7 12%, transparent 12.5%, transparent 87%, #444cf7 87.5%, #444cf7), linear-gradient(150deg, #444cf7 12%, transparent 12.5%, transparent 87%, #444cf7 87.5%, #444cf7), linear-gradient(60deg, #444cf777 25%, transparent 25.5%, transparent 75%, #444cf777 75%, #444cf777), linear-gradient(60deg, #444cf777 25%, transparent 25.5%, transparent 75%, #444cf777 75%, #444cf777);
+    background-size: 20px 35px;
+    background-position: 0 0, 0 0, 10px 18px, 10px 18px, 0 0, 10px 18px;;
+    border: 2px solid rgb(0, 0, 0);
+    float: left;
+    font-size: 150px;
+    font-weight:bolder;
+    /* line-height: 34px; */
+    /* height: 300px; */
+     margin-right: -1px;
+    margin-top: -1px;
+    padding: 0; 
+    /* width: 300px; */
+    flex-basis: 200px;
+    /* animation:slidein 0.2s infinite linear; */
+   }  
+   
+
+button.square:hover {
+    transform: rotate(9000deg);
+    transition: transform 10s ease-out;
+  }
+
+  .square:focus {
+    outline: none;
+  }
+
+  .kbd-navigation .square:focus {
+    background: #ddd;
+  }

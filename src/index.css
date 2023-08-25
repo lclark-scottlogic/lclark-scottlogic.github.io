@@ -1,0 +1,51 @@
+body {
+  font: 50px "Century Gothic", Futura, sans-serif;
+  margin: 30px;
+  background-image:url(https://i.guim.co.uk/img/media/9864e95f212904d1c43b515307bc0c883bf5f3c3/0_0_5131_3414/master/5131.jpg?width=700&quality=85&auto=format&fit=max&s=047d69821dd23b6a5eb70a489ae92ca4);
+  animation: moveBackground 2s infinite linear;
+}
+h1{
+  background-color: white;
+  border: #3c5a86 1px dotted;
+  color: #00ff59;
+  white-space: nowrap;
+  position: absolute;
+  top: -90px;
+  left: 16px;
+  text-align: center;
+  animation:mymove 0.1s infinite linear;
+  animation:mycolourchange 0.5s infinite linear
+}
+
+.status {
+  margin-bottom: 10px;
+}
+
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
+
+@keyframes mycolourchange {
+  from {background-image: linear-gradient(rgb(255, 0, 0), rgb(255, 165, 0));
+  }
+  to {background-image: linear-gradient(rgb(0, 255, 255), rgb(0, 89, 255));
+  }
+}
+@keyframes mymove {
+  from {opacity:0;
+  }
+  to {opacity:1;
+  }
+}
+@keyframes moveBackground {
+  0% {background-position: bottom left;}
+  25% {background-position: top right;}
+  50% {background-position: bottom right;}
+  75% {background-position: top right;}
+}

@@ -1,0 +1,28 @@
+
+.board:hover{
+    position: relative;
+    left: -5px;
+}
+.boardFull{
+    display: flex;
+    height: 900px;
+    justify-content: space-evenly;
+    flex-direction: column;
+    
+  
+  }
+  .boardRow{
+    display: flex;
+    justify-content: space-evenly;
+    width: 900px;
+    flex-basis: 200px;
+  
+  }
+
+
+  .boardRow:after {
+    clear: both;
+    content: "";
+    display: table;
+  }
+  
