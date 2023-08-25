@@ -1,7 +1,7 @@
 {
   "name": "client",
   "version": "0.1.0",
-  "homepage": "https://lclark-scottlogic.github.io/lclark-scottlogic.github.io",
+  "homepage": "https://lclark-scottlogic.github.io/",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.4",
